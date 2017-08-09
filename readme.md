@@ -1,6 +1,3 @@
-
-![Markdown](http://i2.muimg.com/1949/546d9e0e76ccc1aa.png)
-
     
 ### composer安装
         
