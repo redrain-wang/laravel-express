@@ -1,0 +1,20 @@
+{
+    "name": "redrain/laravel-express",
+    "description": "express search for laravel5",
+    "keywords": ["express"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "redrain.wang",
+            "email": "wangredrain@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Redrain\\Express\\": "src/"
+        }
+    }
+}
